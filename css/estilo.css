@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+body{
+  font-family: "Montserrat", sans-serif;
+  background-image: url("../img/note.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+}
+.interface{
+  color: white;
+  position: relative;
+  left: 8%;
+  top: 175px;
+  width: 700px;
+}
+.interface h1{
+  font-size: 200px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.interface h2#bFrase{
+  text-align: justify;
+  color: white;
+  border: 2px solid white;
+  padding: 10px;
+}
